@@ -1,6 +1,7 @@
 <h1 align="center">Hi! I am Claken, but you can call me "sachouam"</h1>
-<h3 align="center">I am a student at 42Paris and a junior software developer</h3>
+<h3 align="center">I am a junior software developer</h3>
 
+- :man_student: Student at [@42Paris](https://github.com/42Paris)
 - 📫 How to reach me **sachouam@student.42.fr**
 
 <h3 align="left">Connect with me:</h3>
