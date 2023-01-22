@@ -1,4 +1,4 @@
-<h1 align="center">Hi! My name is Claken</h1>
+<h1 align="center">Hi! I am Claken a.k.a. sachouam</h1>
 <h3 align="center">I am a student at 42Paris and a junior software developer</h3>
 
 - 📫 How to reach me **sachouam@student.42.fr**
