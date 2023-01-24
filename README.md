@@ -2,7 +2,7 @@
 <h3 align="center">I am a junior software developer</h3>
 
 - :man_student: Student at [@42Paris](https://github.com/42Paris)
-- 🔭 I am currently looking for an internship in order to gain more knowledge, and to apply and improve my skills
+- 🔭 I am currently looking for an internship in order to gain more knowledge, and to apply and improve my skills.
 - 📫 How to reach me **sachouam@student.42.fr**
 
 <h3 align="left">Connect with me:</h3>
