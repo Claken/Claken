@@ -21,4 +21,5 @@
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/dnfield/flutter_svg/7d374d7107561cbd906d7c0ca26fef02cc01e7c8/example/assets/flutter_logo.svg?sanitize=true" alt="flutter" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Set up :</h3>
+<a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
