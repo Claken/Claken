@@ -23,3 +23,4 @@
 
 <h3 align="left">Set up :</h3>
 <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
+<a href="#"><img alt="VsCode" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=plastic"></a>
