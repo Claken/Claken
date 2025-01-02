@@ -1,5 +1,5 @@
 <h1 align="center">Hi! I am Claken, but you can call me "sachouam"</h1>
-<h3 align="center">I am a junior software developer</h3>
+<h3 align="center">I am a software developer</h3>
 
 - :man_student: Student at [@42Paris](https://github.com/42Paris)
 - 🔭 I am currently looking for a first job, or a second internship in order to gain more knowledge, and to apply and improve my skills.
