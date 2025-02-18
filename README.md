@@ -4,7 +4,7 @@
 - :man_student: Student at [@42Paris](https://github.com/42Paris)
 - 🔭 I am currently looking for a first job, or a second internship in order to gain more knowledge, and to apply and improve my skills.
 - 📫 How to reach me **sachouam@student.42.fr**
-- Check LeetCode account : **[https://leetcode.com/u/Claken](https://leetcode.com/u/Claken/)**
+- Check my LeetCode account : **[https://leetcode.com/u/Claken](https://leetcode.com/u/Claken/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
