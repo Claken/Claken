@@ -9,7 +9,7 @@
 - 📫 How to reach me **sachouam@student.42.fr**
 
 <h3 align="left">Check my LeetCode account:</h3>
-<p align="left">
+<p align="right">
 <a href="https://leetcode.com/u/Claken/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" alt="leetcode" height="45" width="55"/></a>
 </p>
 
