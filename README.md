@@ -5,7 +5,7 @@
 </svg>
 
 - :man_student: Student at [@42Paris](https://github.com/42Paris)
-- 🔭 I am currently looking for a first job, or a second internship in order to gain more knowledge, and to apply and improve my skills.
+- 🔭 I am currently looking for a job in back-end development.
 - 📫 How to reach me **sachouam@student.42.fr**
 
 <h3 align="left">Check my LeetCode account:</h3>
