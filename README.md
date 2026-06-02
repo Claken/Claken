@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://42cv.dev">
-    <img src="https://42cv.dev/api/badge/cmn96azvr00000kr8u8yw38jj/stats?cursusId=21&coalitionId=12" alt="sachouam's 42 stats" />
+    <a href="https://42cv.dev/sachouam"><img src="https://42cv.dev/api/badge/cmn96azvr00000kr8u8yw38jj/stats?cursusId=21&coalitionId=12" alt="sachouam's 42 stats" /></a>
   </a>
 </p>
 
