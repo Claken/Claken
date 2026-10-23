@@ -10,6 +10,12 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://www.credly.com/badges/6a66ebdc-17e2-4268-9843-05dd89f9ea9a/public_url">
+    🎓 View my verified 42 achievement on Credly
+  </a>
+</p>
+
 - :man_student: Student at [@42Paris](https://github.com/42Paris)
 - 🔭 I am currently looking for a job/internship in ai engineering.
 - 📫 How to reach me **sachouam@student.42.fr**
